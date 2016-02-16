@@ -39,3 +39,13 @@ rm removes a file.
 help brings up the manual for a command.
 
 ## 1.4 Forking and Cloning Reflection
+
+Instructions on how to create, fork, and clone a repo:
+
+Creating: Navigate to your GitHub profile, select "new repository" from the + menu. Name your repository, select the appropriate options (access and license type), and click the "Create a Repository" button.
+
+Forking: Navigate to the repository you want to fork, then click the "Fork" button and select the GitHub account you want to fork the repository into. Do not fork repositories into other repositories.
+
+Cloning: Make sure you are in the correct directory using the pwd command (see above about not forking repositories into other repositories!). Navigate to your forked repository and copy the URL listed under SSH or HTTPS. Then at the command line type git clone <PASTE URL NAME HERE>. You can then run the ls command and see your new repository in the directory.
+
+I would choose to fork rather than create a new repository if I wanted to work on that repository separately and still retain a syncable link back to the original repository. With a fork I can use GitHub to track changes and initiate pull requests to sync my changes back to the original repository (with the approval of the original repository's creator/owner).
