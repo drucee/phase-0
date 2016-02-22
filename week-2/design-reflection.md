@@ -1,4 +1,4 @@
-![Site map](imgs/sitemap.jpg)
+![Site map](imgs/site_map.jpg)
 What are the 6 Phases of Web Design?
 Information Gathering, Planning, Design, Development, Testing and Delivery, Maintenance
 What is your site's primary goal or purpose? What kind of content will your site feature?
