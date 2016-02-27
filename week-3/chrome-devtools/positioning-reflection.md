@@ -1,12 +1,12 @@
-![exercise 1](/imgs/screenshot_ex1.jpg "exercise 1")
-![exercise 2](/imgs/screenshot_ex2.jpg "exercise 2")
-![exercise 3](/imgs/screenshot_ex3.jpg "exercise 3")
-![exercise 4](/imgs/screenshot_ex4.jpg "exercise 4")
-![exercise 5](/imgs/screenshot_ex5.jpg "exercise 5")
-![exercise 6](/imgs/screenshot_ex6.jpg "exercise 6")
-![exercise 7](/imgs/screenshot_ex7.jpg "exercise 7")
-![exercise 8](/imgs/screenshot_ex8.jpg "exercise 8")
-![exercise 9](/imgs/screenshot_ex9.jpg "exercise 9")
+![exercise 1](/week-3/chrome-devtools/imgs/screenshot_ex1.jpg "exercise 1")
+![exercise 2](/week-3/chrome-devtools/imgs/screenshot_ex2.jpg "exercise 2")
+![exercise 3](/week-3/chrome-devtools/imgs/screenshot_ex3.jpg "exercise 3")
+![exercise 4](/week-3/chrome-devtools/imgs/screenshot_ex4.jpg "exercise 4")
+![exercise 5](/week-3/chrome-devtools/imgs/screenshot_ex5.jpg "exercise 5")
+![exercise 6](/week-3/chrome-devtools/imgs/screenshot_ex6.jpg "exercise 6")
+![exercise 7](/week-3/chrome-devtools/imgs/screenshot_ex7.jpg "exercise 7")
+![exercise 8](/week-3/chrome-devtools/imgs/screenshot_ex8.jpg "exercise 8")
+![exercise 9](/week-3/chrome-devtools/imgs/screenshot_ex9.jpg "exercise 9")
 
 How can you use Chrome's DevTools inspector to help you format or position elements? The DevTools inspector helps format or position elements by allowing you to make changes to CSS properties and see the results instantly.
 How can you resize elements on the DOM using CSS? You can resize elements on the DOM using CSS by changing their width and height properties.
